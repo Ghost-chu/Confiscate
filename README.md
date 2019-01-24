@@ -1,3 +1,12 @@
+<p align="center">
+  Do you want to code your own Confiscate?
+  <a href="https://www.spigotcourse.org/?utm_source=github&utm_medium=github">
+    <img src="https://i.imgur.com/Xr0p2g3.png" />
+  </a>
+</p>
+
+---
+
 # Confiscate
 Confiscate is a premium grade Bukkit plugin that offers confiscating illegal items away from players. It has been designed as an innovative approach to lower the frustration of server owners from
 
