@@ -5,10 +5,6 @@
   </a>
 </p>
 
----
-
-## Important: We will be discontinuing this page soon, please visit https://support.mineacademy.org for documentation and support.
-
 # Confiscate
 Confiscate is a premium grade Bukkit plugin that offers confiscating illegal items away from players. It has been designed as an innovative approach to lower the frustration of server owners from
 
