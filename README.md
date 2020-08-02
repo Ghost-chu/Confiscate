@@ -6,13 +6,13 @@
 </p>
 
 # Confiscate
-Confiscate is a premium grade Bukkit plugin that offers confiscating illegal items away from players. It has been designed as an innovative approach to lower the frustration of server owners from
+Confiscate is a premium grade Bukkit plugin that offers confiscating illegal items away from players. It has been designed as an innovative approach to lower the frustration of server owners from:
 
-* abusive staff misusing commands like /give or simply creative mode.
-* duplication glitches.
-* hacked clients modifying items or enchants.
-* x-rayers and other unwished ways to obtain high amount of rare materials quickly.
-* unbalanced server economy.
+* Abusive staff misusing commands like /give or simply creative mode.
+* Duplication glitches.
+* Hacked clients modifying items or enchants.
+* X-rayers and other unwished ways to obtain high amount of rare materials quickly.
+* Unbalanced server economy.
 
 You are welcome to read the **[Confiscate Wikipedia](https://github.com/kangarko/Confiscate/wiki)**, where you fill find tons of information about the installation, configuring and using this plugin.
 
