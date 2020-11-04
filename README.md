@@ -20,6 +20,12 @@ If you have any **questions or bugs to report**, try seeing if [those can be res
 
 Check out https://www.spigotmc.org/resources/37893 for more information.
 
+# Compiling
+
+1. Obtain Foundation from github.com/kangarko/Foundation
+2. Create library/ folder in Confiscate/ and obtain binaries described in pom.xml. You have to obtain them yourself.
+3. Compile Foundation and Confiscate using Maven with the "clean install" goal.
+
 <hr>
 
 Dave Thomas, founder of OTI, godfather of the Eclipse strategy:
