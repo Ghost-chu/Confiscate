@@ -6,7 +6,7 @@ import java.io.IOException;
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
 import org.bukkit.World;
-import org.bukkit.configuration.file.YamlConfiguration;
+import org.bukkit.configuration.file.FileConfiguration;
 import org.mineacademy.fo.Common;
 import org.mineacademy.fo.FileUtil;
 import org.mineacademy.fo.MinecraftVersion;
@@ -23,7 +23,7 @@ class ChestFile {
 	/**
 	 * The chest data configuration.
 	 */
-	private YamlConfiguration cfg = null;
+	private FileConfiguration cfg = null;
 
 	/**
 	 * The foundation location;

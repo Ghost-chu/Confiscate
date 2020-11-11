@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-import org.bukkit.configuration.file.YamlConfiguration;
+import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.enchantments.Enchantment;
 import org.bukkit.event.inventory.InventoryType;
 import org.mineacademy.confiscate.model.WorldEditItemLimiter;
@@ -45,7 +45,7 @@ public final class Settings extends SimpleSettings {
 		final File old = FileUtil.getFile("settings.yml");
 
 		if (old.exists()) {
-			final YamlConfiguration cfg = FileUtil.loadConfigurationStrict(old);
+			final FileConfiguration cfg = FileUtil.loadConfigurationStrict(old);
 
 			// Is incompatible?
 			if (cfg.getInt("Version", 0) < 3) {
